@@ -1,4 +1,4 @@
-# ViewBindingKotlin
+# KotlinViewBinding
 
 Android Development / Kotlin Tutorial - Lesson 3
 
